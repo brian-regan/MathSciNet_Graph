@@ -8,4 +8,6 @@ Example:
 adj_matrix = make_net(237054, 'Hurwitz, Adolf')
 ```
 
+![Output](https://raw.githubusercontent.com/brian-regan/MathSciNet_Graph/master/example_fig.png)
+
 **Note that this code generates the network by accessesing the MathSciNet webpage multiple times (if accesible on your network). Do not run it for long durations.**
