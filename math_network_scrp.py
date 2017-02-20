@@ -4,10 +4,6 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 
-
-petri_id = 695218
-dor_id = 132880
-
 def get_colabs(u_id):
 	index = 1
 	colabs = {}
