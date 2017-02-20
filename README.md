@@ -5,7 +5,7 @@ The function of interest is *make_net(u_id, u_name)* which takes a authors MR Au
 
 Example:
 ```python
-adj_matrix = make_net('Hurwitz, Adolf', 237054)
+adj_matrix = make_net(237054, 'Hurwitz, Adolf')
 ```
 
 **Note that this code generates the network by accessesing the MathSciNet webpage multiple times (if accesible on your network). Do not run it for long durations.**
