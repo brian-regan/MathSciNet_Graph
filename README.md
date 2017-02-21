@@ -8,7 +8,7 @@ Example:
 adj_matrix = make_net(237054)
 ```
 
-```python
+```
 Generating Network for Hurwitz, Adolf
 Scraping Courant, Richard
 Scraping Hilbert, David1
