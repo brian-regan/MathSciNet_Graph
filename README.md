@@ -10,6 +10,8 @@ adj_matrix = make_net(237054)
 
 ```
 Generating Network for Hurwitz, Adolf
+3 Co-Authors to Scrape
+
 Scraping Courant, Richard
 Scraping Hilbert, David1
 Scraping Pólya, George
